@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "996124201112",
+    "firebase_url": "https://shoppingorderapp.firebaseio.com",
+    "project_id": "shoppingorderapp",
+    "storage_bucket": "shoppingorderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996124201112:android:7a7710985b16af0c",
+        "android_client_info": {
+          "package_name": "com.diu.mahmud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996124201112-q3crohfl2guntr48oefkp9rf1bccfmn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diu.mahmud",
+            "certificate_hash": "005039af7431944b529c6cf7797c91491222f69f"
+          }
+        },
+        {
+          "client_id": "996124201112-964vusdv9qt5m4ru2ta0d0ei6o46lud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOC8Z4KQL1MiG8G3K7RNZZbJvCJBQoEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996124201112:android:59de77228addec53",
+        "android_client_info": {
+          "package_name": "com.diu.mahmud.shoppingorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996124201112-0sm0a05o8g665ahncemi8djkk3bseja9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diu.mahmud.shoppingorderapp",
+            "certificate_hash": "005039af7431944b529c6cf7797c91491222f69f"
+          }
+        },
+        {
+          "client_id": "996124201112-964vusdv9qt5m4ru2ta0d0ei6o46lud3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOC8Z4KQL1MiG8G3K7RNZZbJvCJBQoEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996124201112-964vusdv9qt5m4ru2ta0d0ei6o46lud3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
